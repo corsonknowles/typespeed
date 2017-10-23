@@ -202,9 +202,9 @@ daisy-chain would be worth the trouble of getting up and picking the
 daisies, when suddenly a White Rabbit with pink eyes ran close by her.
 
 There was nothing so *very* remarkable in that; nor did Alice think it so
-*very* much out of the way to hear the Rabbit say to itself, =E2=80=98Oh de=
+*very* much out of the way to hear the Rabbit say to itself, 'Oh de=
 ar! Oh
-dear! I shall be late!=E2=80=99 (when she thought it over afterwards, it oc=
+dear! I shall be late!' (when she thought it over afterwards, it oc=
 curred
 to her that she ought to have wondered at this, but at the time it all
 seemed quite natural); but when the Rabbit actually *took a watch out of
@@ -229,77 +229,56 @@ to, but it was too dark to see anything; then she looked at the sides of
 the well, and noticed that they were filled with cupboards and
 book-shelves; here and there she saw maps and pictures hung upon pegs. She
 took down a jar from one of the shelves as she passed; it was labelled
-=E2=80=98ORANGE MARMALADE=E2=80=99, but to her great disappointment it was =
+'ORANGE MARMALADE', but to her great disappointment it was =
 empty: she did
 not like to drop the jar for fear of killing somebody, so managed to put it
 into one of the cupboards as she fell past it.
 
-=E2=80=98Well!=E2=80=99 thought Alice to herself, =E2=80=98after such a fal=
+'Well!' thought Alice to herself, 'after such a fal=
 l as this, I shall think
-nothing of tumbling down stairs! How brave they=E2=80=99ll all think me at =
+nothing of tumbling down stairs! How brave they'll all think me at =
 home!
-Why, I wouldn=E2=80=99t say anything about it, even if I fell off the top o=
+Why, I wouldn't say anything about it, even if I fell off the top o=
 f the
-house!=E2=80=99 (Which was very likely true.)
+house!' (Which was very likely true.)
 
-Down, down, down. Would the fall *never* come to an end! =E2=80=98I wonder =
-how many
-miles I=E2=80=99ve fallen by this time?=E2=80=99 she said aloud. =E2=80=98I=
- must be getting
+Down, down, down. Would the fall *never* come to an end! 'I wonder how many miles I've fallen by this time?' she said aloud. 'I must be getting
 somewhere near the centre of the earth. Let me see: that would be four
-thousand miles down, I think=E2=80=94=E2=80=99 (for, you see, Alice had lea=
-rnt several
+thousand miles down, I think,' (for, you see, Alice had learnt several
 things of this sort in her lessons in the schoolroom, and though this was
 not a *very* good opportunity for showing off her knowledge, as there was
-no one to listen to her, still it was good practice to say it over) =E2=80=
-=98=E2=80=94yes,
-that=E2=80=99s about the right distance=E2=80=94but then I wonder what Lati=
-tude or
-Longitude I=E2=80=99ve got to?=E2=80=99 (Alice had no idea what Latitude wa=
-s, or Longitude
+no one to listen to her, still it was good practice to say it over) 'yes,
+that's about the right distance, but then I wonder what Latitude or
+Longitude I've got to?' (Alice had no idea what Latitude was, or Longitude
 either, but thought they were nice grand words to say.)
 
-Presently she began again. =E2=80=98I wonder if I shall fall right *through=
-* the
-earth! How funny it=E2=80=99ll seem to come out among the people that walk =
-with
-their heads downward! The Antipathies, I think=E2=80=94=E2=80=99 (she was r=
-ather glad there
-*was* no one listening, this time, as it didn=E2=80=99t sound at all the ri=
-ght
-word) =E2=80=98=E2=80=94but I shall have to ask them what the name of the c=
+Presently she began again. 'I wonder if I shall fall right *through
+* the earth! How funny it'll seem to come out among the people that walk with
+their heads downward! The Antipathies, I think,' (she was r=
+ather glad there *was* no one listening, this time, as it didn't sound at all the right word) '=E2=80=94but I shall have to ask them what the name of the c=
 ountry is, you
-know. Please, Ma=E2=80=99am, is this New Zealand or Australia?=E2=80=99 (an=
+know. Please, Ma'am, is this New Zealand or Australia?' (an=
 d she tried to
-curtsey as she spoke=E2=80=94fancy *curtseying* as you=E2=80=99re falling t=
+curtsey as she spoke=E2=80=94fancy *curtseying* as you're falling t=
 hrough the air!
-Do you think you could manage it?) =E2=80=98And what an ignorant little gir=
-l she=E2=80=99ll
-think me for asking! No, it=E2=80=99ll never do to ask: perhaps I shall see=
+Do you think you could manage it?) 'And what an ignorant little gir=
+l she'll
+think me for asking! No, it'll never do to ask: perhaps I shall see=
  it
-written up somewhere.=E2=80=99
+written up somewhere.'
 
 Down, down, down. There was nothing else to do, so Alice soon began talking
-again. =E2=80=98Dinah=E2=80=99ll miss me very much to-night, I should think=
-!=E2=80=99 (Dinah was
-the cat.) =E2=80=98I hope they=E2=80=99ll remember her saucer of milk at te=
-a-time. Dinah my
-dear! I wish you were down here with me! There are no mice in the air, I=E2=
-=80=99m
-afraid, but you might catch a bat, and that=E2=80=99s very like a mouse, yo=
-u know.
-But do cats eat bats, I wonder?=E2=80=99 And here Alice began to get rather=
- sleepy,
-and went on saying to herself, in a dreamy sort of way, =E2=80=98Do cats ea=
-t bats?
-Do cats eat bats?=E2=80=99 and sometimes, =E2=80=98Do bats eat cats?=E2=80=
-=99 for, you see, as she
-couldn=E2=80=99t answer either question, it didn=E2=80=99t much matter whic=
-h way she put
+again. 'Dinah'll miss me very much to-night, I should think!' (Dinah was
+the cat.) 'I hope they'll remember her saucer of milk at tea-time. Dinah my
+dear! I wish you were down here with me! There are no mice in the air, I'm
+afraid, but you might catch a bat, and that's very like a mouse, you know.
+But do cats eat bats, I wonder?' And here Alice began to get rather sleepy,
+and went on saying to herself, in a dreamy sort of way, 'Do cats eat bats?
+Do cats eat bats?' and sometimes, 'Do bats eat cats?' for, you see, as she
+couldn't answer either question, it didn't much matter which way she put
 it. She felt that she was dozing off, and had just begun to dream that she
 was walking hand in hand with Dinah, and saying to her very earnestly,
-=E2=80=98Now, Dinah, tell me the truth: did you ever eat a bat?=E2=80=99 wh=
-en suddenly,
+'Now, Dinah, tell me the truth: did you ever eat a bat?' when suddenly,
 thump! thump! down she came upon a heap of sticks and dry leaves, and the
 fall was over.
 
@@ -307,10 +286,8 @@ Alice was not a bit hurt, and she jumped up on to her feet in a moment: she
 looked up, but it was all dark overhead; before her was another long
 passage, and the White Rabbit was still in sight, hurrying down it. There
 was not a moment to be lost: away went Alice like the wind, and was just in
-time to hear it say, as it turned a corner, =E2=80=98Oh my ears and whisker=
-s, how
-late it=E2=80=99s getting!=E2=80=99 She was close behind it when she turned=
- the corner, but
+time to hear it say, as it turned a corner, 'Oh my ears and whiskers, how
+late it's getting!' She was close behind it when she turned the corner, but
 the Rabbit was no longer to be seen: she found herself in a long, low hall,
 which was lit up by a row of lamps hanging from the roof.
 
@@ -332,41 +309,31 @@ Alice opened the door and found that it led into a small passage, not much
 larger than a rat-hole: she knelt down and looked along the passage into
 the loveliest garden you ever saw. How she longed to get out of that dark
 hall, and wander about among those beds of bright flowers and those cool
-fountains, but she could not even get her head through the doorway; =E2=80=
-=98and
-even if my head would go through,=E2=80=99 thought poor Alice, =E2=80=98it =
-would be of very
+fountains, but she could not even get her head through the doorway; 'and
+even if my head would go through,' thought poor Alice, 'it would be of very
 little use without my shoulders. Oh, how I wish I could shut up like a
-telescope! I think I could, if I only knew how to begin.=E2=80=99 For, you =
-see, so
+telescope! I think I could, if I only knew how to begin.' For, you see, so
 many out-of-the-way things had happened lately, that Alice had begun to
 think that very few things indeed were really impossible.
 
 There seemed to be no use in waiting by the little door, so she went back
 to the table, half hoping she might find another key on it, or at any rate
 a book of rules for shutting people up like telescopes: this time she found
-a little bottle on it, (=E2=80=98which certainly was not here before,=E2=80=
-=99 said Alice,)
-and round the neck of the bottle was a paper label, with the words =E2=80=
-=98DRINK
-ME=E2=80=99 beautifully printed on it in large letters.
+a little bottle on it, ('which certainly was not here before,' said Alice,)
+and round the neck of the bottle was a paper label, with the words 'DRINK
+ME' beautifully printed on it in large letters.
 
-It was all very well to say =E2=80=98Drink me,=E2=80=99 but the wise little=
- Alice was not
-going to do *that* in a hurry. =E2=80=98No, I=E2=80=99ll look first,=E2=80=
-=99 she said, =E2=80=98and see
-whether it=E2=80=99s marked "*poison*" or not=E2=80=99; for=
- she had read several nice
+It was all very well to say 'Drink me,' but the wise little Alice was not
+going to do *that* in a hurry. 'No, I'll look first,' she said, 'and see
+whether it's marked "*poison*" or not'; for she had read several nice
 little histories about children who had got burnt, and eaten up by wild
 beasts and other unpleasant things, all because they *would* not remember
 the simple rules their friends had taught them: such as, that a red-hot
 poker will burn you if you hold it too long; and that if you cut your
 finger *very* deeply with a knife, it usually bleeds; and she had never
-forgotten that, if you drink much from a bottle marked =E2=80=98poison,=E2=
-=80=99 it is
-almost certain to disagree with you, sooner or later.
+forgotten that, if you drink much from a bottle marked 'poison,' it is almost certain to disagree with you, sooner or later.
 
-However, this bottle was *not* marked =E2=80=98poison,=E2=80=99 so Alice ventured to taste
+However, this bottle was *not* marked 'poison,' so Alice ventured to taste
 it, and finding it very nice, (it had, in fact, a sort of mixed flavour of
 cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered
 toast,) she very soon finished it off.
