@@ -26,125 +26,100 @@ first entering a neighbourhood, this truth is so well fixed in the minds of
 the surrounding families, that he is considered the rightful property of
 some one or other of their daughters.
 
-=E2=80=9CMy dear Mr. Bennet,=E2=80=9D said his lady to him one day, =E2=80=
-=9Chave you heard that
-Netherfield Park is let at last?=E2=80=9D
+"My dear Mr. Bennet," said his lady to him one day, "have you heard that
+Netherfield Park is let at last?"
 
 Mr. Bennet replied that he had not.
 
-=E2=80=9CBut it is,=E2=80=9D returned she; =E2=80=9Cfor Mrs. Long has just =
+"But it is," returned she; "for Mrs. Long has just =
 been here, and she told
-me all about it.=E2=80=9D
+me all about it."
 
 Mr. Bennet made no answer.
 
-=E2=80=9CDo you not want to know who has taken it?=E2=80=9D cried his wife =
+"Do you not want to know who has taken it?" cried his wife =
 impatiently.
 
-=E2=80=9C*You* want to tell me, and I have no objection to hearing it.=E2=
-=80=9D
+"*You* want to tell me, and I have no objection to hearing it."
 
 This was invitation enough.
 
-=E2=80=9CWhy, my dear, you must know, Mrs. Long says that Netherfield is ta=
+"Why, my dear, you must know, Mrs. Long says that Netherfield is ta=
 ken by a
 young man of large fortune from the north of England; that he came down on
 Monday in a chaise and four to see the place, and was so much delighted
 with it, that he agreed with Mr. Morris immediately; that he is to take
 possession before Michaelmas, and some of his servants are to be in the
-house by the end of next week.=E2=80=9D
+house by the end of next week."
 
-=E2=80=9CWhat is his name?=E2=80=9D
+"What is his name?"
 
-=E2=80=9CBingley.=E2=80=9D
+"Bingley."
 
-=E2=80=9CIs he married or single?=E2=80=9D
+"Is he married or single?"
 
-=E2=80=9COh! Single, my dear, to be sure! A single man of large fortune; fo=
-ur or
-five thousand a year. What a fine thing for our girls!=E2=80=9D
+"Oh! Single, my dear, to be sure! A single man of large fortune; four or
+five thousand a year. What a fine thing for our girls!"
 
-=E2=80=9CHow so? How can it affect them?=E2=80=9D
+"How so? How can it affect them?"
 
-=E2=80=9CMy dear Mr. Bennet,=E2=80=9D replied his wife, =E2=80=9Chow can yo=
+"My dear Mr. Bennet," replied his wife, "how can yo=
 u be so tiresome! You
-must know that I am thinking of his marrying one of them.=E2=80=9D
+must know that I am thinking of his marrying one of them."
 
-=E2=80=9CIs that his design in settling here?=E2=80=9D
+"Is that his design in settling here?"
 
-=E2=80=9CDesign! Nonsense, how can you talk so! But it is very likely that =
-he
-*may* fall
-in love with one of them, and therefore you must visit him as soon as he
-comes.=E2=80=9D
+"Design! Nonsense, how can you talk so! But it is very likely that he
+*may* fall in love with one of them, and therefore you must visit him as soon as he comes."
 
-=E2=80=9CI see no occasion for that. You and the girls may go, or you may s=
-end them
-by themselves, which perhaps will be still better, for as you are as
-handsome as any of them, Mr. Bingley may like you the best of the party.=E2=
-=80=9D
+"I see no occasion for that. You and the girls may go, or you may s=
+end them by themselves, which perhaps will be still better, for as you are as
+handsome as any of them, Mr. Bingley may like you the best of the party."
 
-=E2=80=9CMy dear, you flatter me. I certainly *have* had my share of beauty=
-, but I
+"My dear, you flatter me. I certainly *have* had my share of beauty, but I
 do not pretend to be anything extraordinary now. When a woman has five
-grown-up daughters, she ought to give over thinking of her own beauty.=E2=
-=80=9D
+grown-up daughters, she ought to give over thinking of her own beauty."
 
-=E2=80=9CIn such cases, a woman has not often much beauty to think of.=E2=
-=80=9D
+"In such cases, a woman has not often much beauty to think of."
 
-=E2=80=9CBut, my dear, you must indeed go and see Mr. Bingley when he comes=
- into
-the neighbourhood.=E2=80=9D
+"But, my dear, you must indeed go and see Mr. Bingley when he comes into
+the neighbourhood."
 
-=E2=80=9CIt is more than I engage for, I assure you.=E2=80=9D
+"It is more than I engage for, I assure you."
 
-=E2=80=9CBut consider your daughters. Only think what an establishment it w=
-ould be
+"But consider your daughters. Only think what an establishment it would be
 for one of them. Sir William and Lady Lucas are determined to go, merely on
 that account, for in general, you know, they visit no newcomers. Indeed you
-must go, for it will be impossible for *us* to visit him if you do not.=E2=
-=80=9D
+must go, for it will be impossible for *us* to visit him if you do not."
 
-=E2=80=9CYou are over-scrupulous, surely. I dare say Mr. Bingley will be ve=
-ry glad
-to see you; and I will send a few lines by you to assure him of my hearty
+"You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty
 consent to his marrying whichever he chooses of the girls; though I must
-throw in a good word for my little Lizzy.=E2=80=9D
+throw in a good word for my little Lizzy."
 
-=E2=80=9CI desire you will do no such thing. Lizzy is not a bit better than=
- the
+"I desire you will do no such thing. Lizzy is not a bit better than the
 others; and I am sure she is not half so handsome as Jane, nor half so
-good-humoured as Lydia. But you are always giving *her* the preference.=E2=
-=80=9D
+good-humoured as Lydia. But you are always giving *her* the preference."
 
-=E2=80=9CThey have none of them much to recommend them,=E2=80=9D replied he=
-; =E2=80=9Cthey are all
+"They have none of them much to recommend them," replied he; "they are all
 silly and ignorant like other girls; but Lizzy has something more of
-quickness than her sisters.=E2=80=9D
+quickness than her sisters."
 
-=E2=80=9CMr. Bennet, how *can* you abuse your own children in such a way? Y=
-ou take
-delight in vexing me. You have no compassion for my poor nerves.=E2=80=9D
+"Mr. Bennet, how *can* you abuse your own children in such a way? You take
+delight in vexing me. You have no compassion for my poor nerves."
 
-=E2=80=9CYou mistake me, my dear. I have a high respect for your nerves. Th=
-ey are
+"You mistake me, my dear. I have a high respect for your nerves. They are
 my old friends. I have heard you mention them with consideration these last
-twenty years at least.=E2=80=9D
+twenty years at least."
 
-=E2=80=9CAh, you do not know what I suffer.=E2=80=9D
+"Ah, you do not know what I suffer."
 
-=E2=80=9CBut I hope you will get over it, and live to see many young men of=
- four
-thousand a year come into the neighbourhood.=E2=80=9D
+"But I hope you will get over it, and live to see many young men of four
+thousand a year come into the neighbourhood."
 
-=E2=80=9CIt will be no use to us, if twenty such should come, since you wil=
-l not
-visit them.=E2=80=9D
+"It will be no use to us, if twenty such should come, since you will not
+visit them."
 
-=E2=80=9CDepend upon it, my dear, that when there are twenty, I will visit =
-them
-all.=E2=80=9D
+"Depend upon it, my dear, that when there are twenty, I will visit them all."
 
 Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve,
 and caprice, that the experience of three-and-twenty years had been
@@ -218,11 +193,8 @@ Alice's Adventures in Wonderland
 
 Alice was beginning to get very tired of sitting by her sister on the bank,
 and of having nothing to do: once or twice she had peeped into the book her
-sister was reading, but it had no pictures or conversations in it, =E2=80=
-=98and
-what is the use of a book,=E2=80=99 thought Alice =E2=80=98without pictures=
- or
-conversations?=E2=80=99
+sister was reading, but it had no pictures or conversations in it, "and
+what is the use of a book?" thought Alice "without pictures or conversations?"
 
 So she was considering in her own mind (as well as she could, for the hot
 day made her feel very sleepy and stupid), whether the pleasure of making a
@@ -348,8 +320,7 @@ door, she walked sadly down the middle, wondering how she was ever to get
 out again.
 
 Suddenly she came upon a little three-legged table, all made of solid
-glass; there was nothing on it except a tiny golden key, and Alice=E2=80=99=
-s first
+glass; there was nothing on it except a tiny golden key, and Alice's first
 thought was that it might belong to one of the doors of the hall; but,
 alas! either the locks were too large, or the key was too small, but at any
 rate it would not open any of them. However, on the second time round, she
@@ -384,7 +355,7 @@ It was all very well to say =E2=80=98Drink me,=E2=80=99 but the wise little=
  Alice was not
 going to do *that* in a hurry. =E2=80=98No, I=E2=80=99ll look first,=E2=80=
 =99 she said, =E2=80=98and see
-whether it=E2=80=99s marked =E2=80=9C*poison*=E2=80=9D or not=E2=80=99; for=
+whether it=E2=80=99s marked "*poison*" or not=E2=80=99; for=
  she had read several nice
 little histories about children who had got burnt, and eaten up by wild
 beasts and other unpleasant things, all because they *would* not remember
@@ -395,8 +366,7 @@ forgotten that, if you drink much from a bottle marked =E2=80=98poison,=E2=
 =80=99 it is
 almost certain to disagree with you, sooner or later.
 
-However, this bottle was *not* marked =E2=80=98poison,=E2=80=99 so Alice ve=
-ntured to taste
+However, this bottle was *not* marked =E2=80=98poison,=E2=80=99 so Alice ventured to taste
 it, and finding it very nice, (it had, in fact, a sort of mixed flavour of
 cherry-tart, custard, pine-apple, roast turkey, toffee, and hot buttered
 toast,) she very soon finished it off.
@@ -409,8 +379,7 @@ It is very seldom that mere ordinary people like John and myself secure
 ancestral halls for the summer.
 
 A colonial mansion, a hereditary estate, I would say a haunted house, and
-reach the height of romantic felicity=E2=80=94but that would be asking too =
-much of
+reach the height of romantic felicity, but that would be asking too much of
 fate!
 
 Still I will proudly declare that there is something queer about it.
@@ -424,11 +393,7 @@ John is practical in the extreme. He has no patience with faith, an intense
 horror of superstition, and he scoffs openly at any talk of things not to
 be felt and seen and put down in figures.
 
-John is a physician, and PERHAPS=E2=80=94(I would not say it to a living so=
-ul, of
-course, but this is dead paper and a great relief to my mind)=E2=80=94PERHA=
-PS that
-is one reason I do not get well faster.
+John is a physician, and PERHAPS (I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind) PERHAPS that is one reason I do not get well faster.
 
 You see he does not believe I am sick!
 
@@ -436,8 +401,7 @@ And what can one do?
 
 If a physician of high standing, and one's own husband, assures friends and
 relatives that there is really nothing the matter with one but temporary
-nervous depression=E2=80=94a slight hysterical tendency=E2=80=94what is one=
- to do?
+nervous depression, a slight hysterical tendency, what is one to do?
 
 My brother is also a physician, and also of high standing, and he says the
 same thing.
