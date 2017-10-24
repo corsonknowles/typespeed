@@ -3,9 +3,15 @@ document.addEventListener('DOMContentLoaded', () => {
   let startTime;
   let endTime;
   let wordCount;
+  let accuracyNode = document.getElementById("accuracy");
+  let countNode = document.getElementById("word-count");
+  let errorNode = document.getElementById("error-count");
 
-  // TODO verify this event listener works as intended
+  let stringCount = (string) => string.split(' ').filter( e => e ).length;
+  let displayField = document.getElementById("display");
+  let totalWords = stringCount(displayField.value);
   let inputField = document.getElementById("type-speed-input");
+
 
   inputField.oninput = () => {
     if (!begun) {
@@ -16,7 +22,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // TODO put this inside calculator for completed words
-    wordCount = inputField.value.split(' ').length;
+    // wordCount = inputField.value.split(' ').filter( e => e ).length;
+    wordCount = stringCount(inputField.value);
+
+    countNode.innerHTML = wordCount;
     // console.log(inputField.value);
     // console.log(wordCount);
 
