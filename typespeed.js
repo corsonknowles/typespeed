@@ -1,19 +1,27 @@
 document.addEventListener('DOMContentLoaded', () => {
   let begun = false;
+  let startTime;
+  let endTime;
+  let wordCount;
 
   // TODO verify this event listener works as intended
-  let inputField = document.getElementByID("type-speed-input");
+  let inputField = document.getElementById("type-speed-input");
 
   inputField.oninput = () => {
     if (!begun) {
       begun = true;
-      let startTime = new Date();
+      startTime = new Date();
+
       console.log(`input entered and begun = ${begun}`);
     }
 
     // TODO put this inside calculator for completed words
-    if () {
-      let endTime = new Date();
+    wordCount = inputField.value.split(' ').length;
+    // console.log(inputField.value);
+    // console.log(wordCount);
+
+    if (wordCount) {
+      endTime = new Date();
     }
 
     if (endTime) {
