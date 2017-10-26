@@ -119,7 +119,9 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
     accuracy = Math.floor(((characters - mistakes)/characters)*100);
-    accuracyNode.innerHTML = `${accuracy}%`;
+    if (!isNaN(accuracy)) {
+      accuracyNode.innerHTML = `${accuracy}%`;
+    }
 
     if (endTime && !completed && lastWordsMatch ) {
       elapsedTime = endTime - startTime;
