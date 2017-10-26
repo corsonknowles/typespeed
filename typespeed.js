@@ -5,9 +5,51 @@ document.addEventListener('DOMContentLoaded', () => {
   let wordCount;
   let elapsedTime;
   let testLength;
-  let texts = ['HI','BYE','CEY'];
+  let accuracy;
+  let texts = [`
+  Pride and Prejudice
+  It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+  However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth
+  is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
+  “My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”
+  Mr. Bennet replied that he had not.
+  “But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”
+  Mr. Bennet made no answer.
+  “Do you not want to know who has taken it?” cried his wife impatiently.
+  “You want to tell me, and I have no objection to hearing it.”
+  This was invitation enough.
+  `,
+  `
+  Willowton is a village of some seventeen thousand population, large enough
+  for the inhabitants to talk of "going up the town" when they mean the broad
+  main street which stands on a gentle slope leading from the railway station
+  to the church. This street, which is paved at the sides with nice old-world,
+  ankle-twisting cobbles, boasts of two drapers', a chemist's, a saddler's,
+  grocer's, and bootmaker's shops. Away in the less aristocratic parts of the
+  village are the butchers and bakers, and the miscellaneous stores so dear to
+  the country housewives. About the middle of the town, in the very widest part,
+  is the bridge, and close to the bridge itself is the Wild Swan public-house,
+  or rather hotel, as it calls itself. The little stream that runs under the
+  bridge comes along through miles of cool meadows, now golden with buttercups,
+  for it is May.
+  `,
+  `
+   It comes through many gardens and orchards, now white with
+  apple blossom; and when it leaves the bridge it burrows underground for some
+  little distance, and reappears at the foot of the cottage gardens, to lose
+  itself in pleasant meandering through more flowery meadows, till it passes
+  out of the ken of Heigham folks, and out of our story's picture.
+  `,
+  `
+  Alice was beginning to get very tired of sitting by her sister on the bank,
+  and of having nothing to do: once or twice she had peeped into the book her
+  sister was reading, but it had no pictures or conversations in it, "and what
+  is the use of a book?" thought Alice "without pictures or conversations?"
+  `
+  ];
+
   let completed = false;
-  let currentText = texts[Math.floor(Math.random() * texts.length)];
+  let currentText = texts[Math.floor(Math.random() * texts.length)].replace(/(\r\n|\n|\r)/gm,"");
   console.log(currentText);
 
   let accuracyNode = document.getElementById("accuracy");
@@ -46,18 +88,47 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let userInput = inputField.value;
     console.log('userinput', userInput);
-    let lastIdx = userInput.split(' ').length - 1;
+    let lastIdx = stringCount(userInput) - 1;
     console.log('lastIdx', lastIdx);
-    let lastword = userInput.split(' ')[lastIdx];
+    let filterUserInput = userInput.split(' ').filter(e => e);
+    let lastword = filterUserInput[lastIdx];
+    console.log('filter user input', filterUserInput);
     console.log('lastword', lastword);
-    let lastWordsMatch = (lastword === currentText.split(" ")[lastIdx]);
-    console.log('target', currentText.split(" ")[lastIdx]);
+    let filtercurrentText = currentText.split(' ').filter(e => e);
+    let targetWord = filtercurrentText[lastIdx];
+    console.log('filter curr', filtercurrentText);
+    let lastWordsMatch = (lastword === targetWord);
+    console.log('target', targetWord);
+    // let x = 0;
+    // for(let i = 0 ; i < lastIdx; i++){
+    //   if (filtercurrentText[i] === filterUserInput[i]){
+    //     x++;
+    //   }
+    // }
+    let mistakes = 0;
+    let characters = 0;
+    for(let i = 0 ; i <= lastIdx; i++){
+      let userword = filterUserInput[i];
+      let orginaltextword = filtercurrentText[i];
+      for(let j = 0 ; j < userword.length ; j++){
+        characters++;
+
+        if (userword[j] !== orginaltextword[j]){
+          mistakes++;
+        }
+      }
+    }
+    accuracy = Math.floor(((characters - mistakes)/characters)*100);
+    accuracyNode.innerHTML = `${accuracy}%`;
+
     if (endTime && !completed && lastWordsMatch ) {
       elapsedTime = endTime - startTime;
       elapsedTimeNode.innerHTML = elapsedTime;
       completed = true;
     }
-  };
+
+
+  }; //end of the oninput function
 
   let updateText = (newText) => {
     displayField.innerHTML = newText;
