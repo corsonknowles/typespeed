@@ -104,7 +104,7 @@ This was invitation enough.`,
 
     for(let i = 0 ; i < testLength; i++){
       if ((i < lastIdx && filterCurrentText[i] !== filterUserInput[i]) ) {
-          markupText += `<span style='background: red;'> ${filterCurrentText[i]} </span> `;
+          markupText += `<span style='background: red;'>${filterCurrentText[i]}</span> `;
       } else if(i === lastIdx && filterCurrentText[i] !== filterUserInput[i]) {
         let currentUserWord = filterUserInput[i];
         let currentWordLength = currentUserWord.length;
@@ -114,7 +114,7 @@ This was invitation enough.`,
           if(j >= currentWordLength || currentUserWord[j] === originalWord[j]){
             buildWord += `${originalWord[j]}`;
           } else {
-            buildWord += `<span style='background: red;'>${originalWord[j]}</span>`;
+            buildWord += `<span style='background: yellow;'>${originalWord[j]}</span>`;
           }
         }
         markupText += `${buildWord} `;
