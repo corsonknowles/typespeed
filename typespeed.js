@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let elapsedTime;
   let testLength;
   let accuracy;
+  let markupText;
   let texts = [
 `It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
@@ -84,22 +85,33 @@ This was invitation enough.`,
     if (mistypedWords >= 0) {
       mistypedNode.innerHTML = mistypedWords;
     }
+    // reset markupText on each input event before iterating
+    // markupText = "";
     let mistakes = 0;
     let characters = 0;
     for(let i = 0 ; i <= lastIdx; i++){
       let userword = filterUserInput[i];
-      let orginalTextWord = filterCurrentText[i];
+      let originalTextWord = filterCurrentText[i];
       for(let j = 0 ; j < userword.length ; j++){
         characters++;
-
-        if (userword[j] !== orginalTextWord[j]){
+        if (userword[j] !== originalTextWord[j]){
           mistakes++;
-        }
-      }
-    }
+        };
+
+
+        if (userword !== originalTextWord) {
+            markupText += `<span style='background: red;'> ${originalTextWord} </span> `;
+        } else {
+            markupText += originalTextWord;
+        };
+      } // end of inner for loop
+    } // end of outer for loop
+
 
     if (mistakes >= 0) {
       errorNode.innerHTML = mistakes;
+      displayField.innerHTML = markupText;
+
     }
 
     accuracy = Math.floor(( (characters - mistakes) / characters ) * 100);
