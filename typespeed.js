@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let elapsedTime;
   let testLength;
   let accuracy;
-  let markupText;
+  let markupText = "";
   let texts = [
 `It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
@@ -103,9 +103,23 @@ This was invitation enough.`,
 
 
     for(let i = 0 ; i < testLength; i++){
-      if ((filterCurrentText[i] !== filterUserInput[i]) && i < lastIdx ) {
+      if ((i < lastIdx && filterCurrentText[i] !== filterUserInput[i]) ) {
           markupText += `<span style='background: red;'> ${filterCurrentText[i]} </span> `;
+      } else if(i === lastIdx && filterCurrentText[i] !== filterUserInput[i]) {
+        let currentUserWord = filterUserInput[i];
+        let currentWordLength = currentUserWord.length;
+        let originalWord = filterCurrentText[i];
+        let buildWord = "";
+        for(let j = 0; j <= originalWord.length; j++){
+          if(j > currentWordLength || currentUserWord[j] === originalWord[j]){
+            buildWord += `${originalWord[j]}`;
+          } else {
+            buildWord += `<span style='background: red;'> ${originalWord[j]} </span> `;
+          }
+        }
+        markupText += `${buildWord} `;
       } else {
+        console.log(filterCurrentText[i]);
           markupText += `${filterCurrentText[i]} `;
       }
     }
