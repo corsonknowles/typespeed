@@ -24,7 +24,8 @@ This was invitation enough.`,
 `Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, "and what is the use of a book?" thought Alice "without pictures or conversations?"`
   ];
 
-  let currentText = texts[Math.floor(Math.random() * texts.length)].replace(/(\r\n|\n|\r)/gm,"");
+  const selectText = () => texts[Math.floor(Math.random() * texts.length)].replace(/(\r\n|\n|\r)/gm,"");
+  let currentText = selectText();
   console.log(currentText);
 
   let accuracyNode = document.getElementById("accuracy");
@@ -33,12 +34,27 @@ This was invitation enough.`,
   let wpm = document.getElementById("wpm");
   let elapsedTimeNode = document.getElementById("typing-time");
   let mistypedNode = document.getElementById("mistyped-words");
+  let newTest = document.getElementById("newTest");
 
   // filters for truthy values, ignoring empty strings and other falsy values
   let stringCount = (string) => string.split(' ').filter( e => e ).length;
   let displayField = document.getElementById("display");
   // let totalWords = stringCount(displayField.innerHTML);
   let inputField = document.getElementById("type-speed-input");
+
+  newTest.onclick = () => {
+    console.log("ONCLICK");
+      currentText = selectText();
+      displayField.innerHTML = currentText;
+      testLength = stringCount(currentText);
+      accuracyNode.innerHTML = "";
+      countNode.innerHTML = "";
+      errorNode.innerHTML = "";
+      wpm.innerHTML = "";
+      elapsedTimeNode.innerHTML = "";
+      mistypedNode.innerHTML = "";
+      inputField.value = "";
+  };
 
   displayField.innerHTML = currentText;
   testLength = stringCount(currentText);
