@@ -110,11 +110,11 @@ This was invitation enough.`,
         let currentWordLength = currentUserWord.length;
         let originalWord = filterCurrentText[i];
         let buildWord = "";
-        for(let j = 0; j <= originalWord.length; j++){
-          if(j > currentWordLength || currentUserWord[j] === originalWord[j]){
+        for(let j = 0; j < originalWord.length; j++){
+          if(j >= currentWordLength || currentUserWord[j] === originalWord[j]){
             buildWord += `${originalWord[j]}`;
           } else {
-            buildWord += `<span style='background: red;'> ${originalWord[j]} </span> `;
+            buildWord += `<span style='background: red;'>${originalWord[j]}</span>`;
           }
         }
         markupText += `${buildWord} `;
