@@ -56,8 +56,10 @@ table {
   width: 528px;
   background-color: white;
   height: 200px;
+  overflow: auto;
   overflow-y: scroll;
   resize: none;
+
 }
 
 .measurements {
@@ -65,5 +67,6 @@ table {
 }
 
 .metrics {
-  
+  border-collapse: separate;
+  border-spacing: 5px;
 }
