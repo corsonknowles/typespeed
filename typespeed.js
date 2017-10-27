@@ -96,21 +96,24 @@ This was invitation enough.`,
         characters++;
         if (userword[j] !== originalTextWord[j]){
           mistakes++;
-        };
-
-
-        if (userword !== originalTextWord) {
-            markupText += `<span style='background: red;'> ${originalTextWord} </span> `;
-        } else {
-            markupText += originalTextWord;
-        };
+        }
       } // end of inner for loop
     } // end of outer for loop
 
 
+
+    for(let i = 0 ; i < testLength; i++){
+      if ((filterCurrentText[i] !== filterUserInput[i]) && i < lastIdx ) {
+          markupText += `<span style='background: red;'> ${filterCurrentText[i]} </span> `;
+      } else {
+          markupText += `${filterCurrentText[i]} `;
+      }
+    }
+
     if (mistakes >= 0) {
       errorNode.innerHTML = mistakes;
       displayField.innerHTML = markupText;
+      markupText = "";
 
     }
 
