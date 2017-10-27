@@ -79,4 +79,5 @@ table {
   margin: 5px;
   font-family: inherit;
   font-size: inherit;
+  overflow: hidden;
 }
