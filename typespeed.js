@@ -47,12 +47,12 @@ This was invitation enough.`,
       currentText = selectText();
       displayField.innerHTML = currentText;
       testLength = stringCount(currentText);
-      accuracyNode.innerHTML = "";
-      countNode.innerHTML = "";
-      errorNode.innerHTML = "";
-      wpm.innerHTML = "";
+      accuracyNode.innerHTML = "100%";
+      countNode.innerHTML = "0";
+      errorNode.innerHTML = "0";
+      wpm.innerHTML = "60";
       elapsedTimeNode.innerHTML = "";
-      mistypedNode.innerHTML = "";
+      mistypedNode.innerHTML = "0";
       inputField.value = "";
   };
 
