@@ -59,7 +59,6 @@ table {
   overflow: auto;
   overflow-y: scroll;
   resize: none;
-
 }
 
 .measurements {
@@ -69,4 +68,8 @@ table {
 .metrics {
   border-collapse: separate;
   border-spacing: 5px;
+  border: 1px solid black;
+  width: 546px;
+  padding: 5px 8px;
+  margin: 5px;
 }
