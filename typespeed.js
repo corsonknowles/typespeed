@@ -77,9 +77,12 @@ This was invitation enough.`,
     console.log('target', targetWord);
     let mistypedWords = 0;
     for(let i = 0 ; i < lastIdx; i++){
-      if (filterCurrentText[i] === filterUserInput[i]){
+      if (filterCurrentText[i] !== filterUserInput[i]){
         mistypedWords++;
       }
+    }
+    if (mistypedWords >= 0) {
+      mistypedNode.innerHTML = mistypedWords;
     }
     let mistakes = 0;
     let characters = 0;
@@ -109,8 +112,8 @@ This was invitation enough.`,
     wpm.innerHTML = Math.floor(wordCount / elapsedMinutes);
 
     if (endTime && !completed && lastWordsMatch) {
-      elapsedTime = endTime - startTime;
-      elapsedTimeNode.innerHTML = elapsedTime;
+      elapsedTime = (endTime - startTime) / 1000;
+      elapsedTimeNode.innerHTML = `${elapsedTime} seconds`;
       completed = true;
     }
 

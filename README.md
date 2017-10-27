@@ -4,14 +4,13 @@
 A typing speed calculator using pure JavaScript
 
 ## Key Features
-- [ ] Box 1: Pre-filled text for the user to type
-- [ ] Box 2: Input for user to type
-- [ ] WPM Calculator: Displays current WPM
+- [ x ] Box 1: Pre-filled text for the user to type
+- [ x ] Box 2: Input for user to type
+- [ x ] WPM Calculator: Displays current WPM
 - [ ] Timer: Starts from 1:00 automatically as user starts typing
 - [ ] Text turns red in Box 1 when error is made
 - [ ] Stop Button to pause test
-- [ ] Results: Display on same page below the test: Errors, Accuracy (Total words spelled correctly / Total words typed)
-
+- [ x ] Results: Display on same page below the test: Errors, Letter by Letter Accuracy within Words, Number of Mistyped Words
 
 ### Text for tests:
 
