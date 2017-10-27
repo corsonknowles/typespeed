@@ -53,23 +53,30 @@ table {
 
   border: 1px solid black;
 
-  width: 528px;
+  width: 628px;
   background-color: white;
   height: 200px;
   overflow: auto;
   overflow-y: scroll;
   resize: none;
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
 }
 
 .measurements {
   display: inline;
+  font-family: inherit;
+  font-size: inherit;
 }
 
 .metrics {
   border-collapse: separate;
   border-spacing: 5px;
   border: 1px solid black;
-  width: 546px;
+  width: 646px;
   padding: 5px 8px;
   margin: 5px;
+  font-family: inherit;
+  font-size: inherit;
 }
