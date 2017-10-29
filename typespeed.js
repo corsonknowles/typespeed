@@ -46,7 +46,7 @@ Mr. Bennet replied that he had not. "But it is," returned she; "for Mrs. Long ha
       countNode.innerHTML = "0";
       errorNode.innerHTML = "0";
       wpm.innerHTML = "60";
-      elapsedTimeNode.innerHTML = "";
+      elapsedTimeNode.innerHTML = "(not done)";
       mistypedNode.innerHTML = "0";
       inputField.value = "";
   };
