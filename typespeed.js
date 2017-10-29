@@ -39,7 +39,6 @@ Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. L
   let inputField = document.getElementById("type-speed-input");
 
   newTest.onclick = () => {
-    console.log("ONCLICK");
       currentText = selectText();
       displayField.innerHTML = currentText;
       testLength = stringCount(currentText);
@@ -59,30 +58,24 @@ Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. L
     if (!begun) {
       begun = true;
       startTime = new Date();
-
-      console.log(`input entered and begun = ${begun}`);
     }
 
+    let userInput = inputField.value;
     wordCount = stringCount(inputField.value);
-    countNode.innerHTML = wordCount;
+    if (wordCount >= 0) {
+      countNode.innerHTML = wordCount;
+    }
 
     if (wordCount === testLength) {
       endTime = new Date();
     }
 
-    let userInput = inputField.value;
-    console.log('userinput', userInput);
     let lastIdx = stringCount(userInput) - 1;
-    console.log('lastIdx', lastIdx);
     let filterUserInput = userInput.split(' ').filter(e => e);
     let lastword = filterUserInput[lastIdx];
-    console.log('filter user input', filterUserInput);
-    console.log('lastword', lastword);
     let filterCurrentText = currentText.split(' ').filter(e => e);
     let targetWord = filterCurrentText[lastIdx];
-    console.log('filter curr', filterCurrentText);
     let lastWordsMatch = (lastword === targetWord);
-    console.log('target', targetWord);
 
     // count then display any mispelled words
     let mistypedWords = 0;
@@ -101,18 +94,22 @@ Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. L
     for(let i = 0 ; i <= lastIdx; i++){
       let userword = filterUserInput[i];
       let originalTextWord = filterCurrentText[i];
-      for(let j = 0 ; j < userword.length ; j++){
-        characters++;
-        if (userword[j] !== originalTextWord[j]){
-          mistakes++;
-        }
-      } // end of inner for loop
+      if (userword && originalTextWord) {
+        for(let j = 0 ; j < userword.length ; j++){
+          characters++;
+          if (userword[j] !== originalTextWord[j]){
+            mistakes++;
+          }
+        } // end of inner for loop
+      }
     } // end of outer for loop
 
     // markup and replace text to insert highlighted spans for detected typing errors
     for(let i = 0 ; i < testLength; i++){
+      // highlight previously mispelled words in red
       if ((i < lastIdx && filterCurrentText[i] !== filterUserInput[i]) ) {
           markupText += `<span style='background: red;'>${filterCurrentText[i]}</span> `;
+      // in the current word, if there are non-matching characters, highlight them in yellow
       } else if(i === lastIdx && filterCurrentText[i] !== filterUserInput[i]) {
         let currentUserWord = filterUserInput[i];
         let currentWordLength = currentUserWord.length;
@@ -126,9 +123,9 @@ Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. L
           }
         }
         markupText += `${buildWord} `;
+      // otherwise, just add the word from the original source
       } else {
-        console.log(filterCurrentText[i]);
-          markupText += `${filterCurrentText[i]} `;
+        markupText += `${filterCurrentText[i]} `;
       }
     }
 
@@ -142,6 +139,8 @@ Mr. Bennet replied that he had not. “But it is,” returned she; “for Mrs. L
 
     // display character accuracy
     accuracy = Math.floor(( (characters - mistakes) / characters ) * 100);
+
+    // ignore not-a-number errors when updating
     if (!isNaN(accuracy)) {
       accuracyNode.innerHTML = `${accuracy}%`;
     }
