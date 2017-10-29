@@ -47,7 +47,7 @@ table {
 	border-spacing: 0;
 }
 
-.display {
+.boxes {
   padding: 5px 8px;
   margin: 5px;
 
@@ -83,15 +83,15 @@ table {
 }
 
 .reset-button {
-	font-size: 16px !important;
-  background: rgb(72, 148, 206) !important;
-  color: rgb(255, 255, 255) !important;
-  border-radius: 4px !important;
-  padding: 20px 30px !important;
-  text-transform: none !important;
-  line-height: 0 !important;
-  font-family: "Open Sans", sans-serif !important;
-  border-bottom-color: rgb(72, 148, 206) !important
+	font-size: 16px;
+  background: rgb(72, 148, 206);
+  color: rgb(255, 255, 255);
+  border-radius: 4px;
+  padding: 20px 30px;
+  text-transform: none;
+  line-height: 0;
+  font-family: "Open Sans", sans-serif;
+  border-bottom-color: rgb(72, 148, 206)
 	padding: 5px 8px;
 	margin: 5px;
 }

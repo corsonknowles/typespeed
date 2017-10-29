@@ -7,10 +7,10 @@ A typing speed calculator using pure JavaScript
 - [ x ] Box 1: Pre-filled text for the user to type
 - [ x ] Box 2: Input for user to type
 - [ x ] WPM Calculator: Displays current WPM
-- [ ] Timer: Starts from 1:00 automatically as user starts typing
-- [ ] Text turns red in Box 1 when error is made
-- [ ] Stop Button to pause test
-- [ x ] Results: Display on same page below the test: Errors, Letter by Letter Accuracy within Words, Number of Mistyped Words
+- [ X ] Timer: When all words are entered, gives typing time for completion.
+- [ X ] Words turns red in Box 1 when they are mispelled
+- [ X ] Individual characters turn yellow when mistyped (this is replaced by word highlighting if the typist moves on to the next word)
+- [ x ] Results: Display on same page below the test: Words Typed, Errors, Number of Mistyped Words, Letter by Letter Accuracy Rating (counts within Words), Words Per Minute, Time to Completion
 
 ### Text for tests:
 
