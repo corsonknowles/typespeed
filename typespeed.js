@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let inputField = document.getElementById("type-speed-input");
 
   newTest.onclick = () => {
+      completed = false;
       currentText = selectText();
       displayField.innerHTML = currentText;
       testLength = stringCount(currentText);
